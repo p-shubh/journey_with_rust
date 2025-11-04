@@ -1,1 +1,1 @@
-# journey_with-_rust
+# journey_with_rust
